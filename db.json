@@ -1,12 +1,19 @@
 {
-    "posts": [
+    "news": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "primera noticia",
+        "subtitle": "este es el subtitulo",
+        "descripcion": "esta es la descripción"
+      },
+      {
+        "id": 2,
+        "title": "segunda noticia",
+        "subtitle": "este es el subtitulo",
+        "descripcion": "esta es la descripción"
       }
     ],
     "profile": {
       "name": "typicode"
     }
   }
-
